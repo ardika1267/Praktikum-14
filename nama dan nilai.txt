@@ -1,0 +1,7 @@
+Isi file nama dan nilai.txt
+
+Risma 80 90
+Lana 70 85
+Ardika 90 80
+Dimas 60 70
+
